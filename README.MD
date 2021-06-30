@@ -28,7 +28,7 @@ VLESS + TCP + XTLS / TLS  + Nginx 及 VLESS + TCP + TLS + Nginx + WebSocket 回�
 ### 安装/更新方式（Xray）
 
 ```
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/Xray_onekey/main/install.sh" && chmod +x install.sh && bash install.sh
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/cc-404/Xray_onekey/main/install.sh" && chmod +x install.sh && bash install.sh
 ```
 
 ### 注意事项
